@@ -1,0 +1,11 @@
+.projetos{
+    color: rgb(20, 20, 20);
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 20px 70px;
+
+}
+.border{
+    border-radius: 10px;
+}

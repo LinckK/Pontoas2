@@ -1,0 +1,46 @@
+
+a{
+    text-decoration: none;
+    color: rgb(211, 211, 211);
+}
+.direita img{
+    width: 100%;
+    border-radius: 50px;
+    box-shadow: 20px 20px 20px black;
+}
+.direita, .esquerda{
+    width: 50vw;
+    padding: 100px;
+}
+.section{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 20px 70px;
+    color: rgb(211, 211, 211);
+}
+.meio{
+    text-align: center;
+    width: 100%;
+    padding: 70px;
+    background-color: bisque;
+}
+
+.projeto{
+    width: 29%;
+    display: flex;
+    flex-direction: column;
+    background-color: bisque;
+    gap: 20px;
+    padding: 20px;
+    text-align: center;
+}
+
+#projetos{
+    display: flex;
+    flex-wrap: wrap;
+    gap: 5px;
+}
+body{
+    background-color: rgb(10, 6, 14);
+}
